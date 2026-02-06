@@ -1,2 +1,2 @@
 # Omega GPT
-Omega GPT implemented from scratch using OpenAI.
+Omega GPT is an Ai chat application 
